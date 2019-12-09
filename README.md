@@ -3,3 +3,5 @@ A 3D Java Maze Game set in space. The player must navigate towards the end of th
 
 The game uses a Swing GUI to display both the 2D and 3D viewpoints side-by-side and features futuristic music. It also displays the number of steps taken by the player, along with a compass. The player dies if all three lives are lost !
 
+
+![Alt text](/src/Maze.jpg)
